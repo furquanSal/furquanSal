@@ -1,4 +1,4 @@
-![Banner Image](./1676286188128.jpeg)
+![Banner Image](Cover.png)
 
 About Me
 
