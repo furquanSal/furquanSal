@@ -1,4 +1,4 @@
-![Banner Image](path/to/your/banner/image.jpg)
+![Banner Image](./1676286188128.jpeg)
 
 About Me
 
