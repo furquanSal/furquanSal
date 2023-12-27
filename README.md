@@ -10,4 +10,4 @@ Feel free to explore my GitHub repositories to discover a collection of my proje
 Connect with me on LinkedIn - https://www.linkedin.com/in/furquansal/
 or drop a mail at mfurquan.sal@gmail.com 
 
-Portfolio - https://furquansportfolio.netlify.app/
+Portfolio - http://furquan.tech
