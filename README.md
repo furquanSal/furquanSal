@@ -1,4 +1,4 @@
-![Banner Image](Cover.png)
+![Banner Image](cover-photo.png)
 
 About Me
 
