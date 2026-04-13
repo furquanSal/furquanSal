@@ -56,6 +56,14 @@ I'm an **AI/ML Engineer** based in Hyderabad, India, working at [CodexAR](https:
 ![Electron](https://img.shields.io/badge/Electron-854F0B?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-854F0B?style=flat-square)
 
+**📱 Mobile Development**
+
+![React Native](https://img.shields.io/badge/React_Native-993556?style=flat-square)
+![Expo](https://img.shields.io/badge/Expo-993556?style=flat-square)
+![Expo Go](https://img.shields.io/badge/Expo_Go-72243E?style=flat-square)
+![iOS](https://img.shields.io/badge/iOS-72243E?style=flat-square)
+![Android](https://img.shields.io/badge/Android-72243E?style=flat-square)
+
 **⚙️ Infrastructure & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-533AB7?style=flat-square)
@@ -92,10 +100,23 @@ I'm an **AI/ML Engineer** based in Hyderabad, India, working at [CodexAR](https:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Platform**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_RTX_A6000-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
