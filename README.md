@@ -1,4 +1,4 @@
-![Banner Image](cover-photo.png)
+
 <!-- ═══════════════════════════════════════════════ -->
 <!--   Mohammed Furquan Saleem — GitHub Profile README   -->
 <!-- ═══════════════════════════════════════════════ -->
@@ -6,11 +6,6 @@
 <div align="center">
 
 # Mohammed Furquan Saleem
-
-```
-  AI/ML Engineer  ·  Web Developer  ·  EdTech Builder
-  Hyderabad, India  ·  Open to Collaborate
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furquansal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furquansal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammedfurquansaleem.com-1D9E75?style=flat-square&logo=safari&logoColor=white)](https://mohammedfurquansaleem.in)
