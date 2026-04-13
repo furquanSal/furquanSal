@@ -18,13 +18,13 @@
 
 ## About Me
 
-I'm an **AI/ML Engineer** based in Hyderabad, India, working at [CodexAR](https://codexar.com) — building AI-powered EdTech and healthcare platforms.
+I'm an **AI/ML Engineer** based in Hyderabad, India, working at [CodexAR](https://codexar.com) — building AR-powered EdTech platforms.
 
-- 🧠 Currently shipping **CAUCC v2** — a LoRA fine-tuned Qwen3-0.6B utterance completeness classifier (89% adversarial accuracy)
-- 🎙️ Building **real-time voice pipelines** with Moonshine v2, faster-whisper, and patience-aware turn detection
-- 🎬 Developing **medical education video pipelines** using Google Veo & Flow
-- 🥽 Deploying **Unity AR builds** with HLS streaming for the ARious anatomy platform
-- 🐳 Running a GPU server (NVIDIA RTX A6000 · 48GB VRAM) — vLLM, Docker, FastAPI
+- 🔬 Specializing in **AI/ML systems** across education, healthcare, and government sectors  
+- 🧩 Passionate about building **end-to-end pipelines** — from model training to production deployment  
+- 🌐 Full-stack capabilities: **backend APIs, web apps, and real-time AI integrations**  
+- 🤝 Always open to **research collaborations** and impactful open-source projects  
+- 📍 Based in **Hyderabad, India** — working globally
 
 ---
 
