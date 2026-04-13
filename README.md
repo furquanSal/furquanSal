@@ -7,7 +7,7 @@
 # Mohammed Furquan Saleem
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furquansal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furquansal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedfurquansaleem.in-1D9E75?style=flat-square&logo=safari&logoColor=white)](https://mohammedfurquansaleem.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedfurquansaleem.com-1D9E75?style=flat-square&logo=safari&logoColor=white)](https://mohammedfurquansaleem.com)
 [![Email](https://img.shields.io/badge/Email-mfurquan.sal@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mfurquan.sal@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=furquan-codexar&color=1D9E75&style=flat-square&label=Profile+Views)
 
