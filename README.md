@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════ -->
 <!--   Mohammed Furquan Saleem — GitHub Profile README   -->
 <!-- ═══════════════════════════════════════════════ -->
@@ -8,7 +7,7 @@
 # Mohammed Furquan Saleem
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furquansal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furquansal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedfurquansaleem.com-1D9E75?style=flat-square&logo=safari&logoColor=white)](https://mohammedfurquansaleem.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedfurquansaleem.in-1D9E75?style=flat-square&logo=safari&logoColor=white)](https://mohammedfurquansaleem.in)
 [![Email](https://img.shields.io/badge/Email-mfurquan.sal@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mfurquan.sal@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=furquan-codexar&color=1D9E75&style=flat-square&label=Profile+Views)
 
@@ -28,18 +27,50 @@ I'm an **AI/ML Engineer** based in Hyderabad, India, working at [CodexAR](https:
 
 ---
 
-## GitHub Stats
+## Areas of Expertise
 
-<div align="center">
+**🤖 Machine Learning & AI**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=furquan-codexar&show_icons=true&theme=default&hide_border=true&bg_color=f9f9f7&title_color=0F6E56&icon_color=1D9E75&text_color=555&rank_icon=github&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furquan-codexar&layout=compact&theme=default&hide_border=true&bg_color=f9f9f7&title_color=0F6E56&text_color=555" alt="Top Languages" />
+![Model Fine-tuning](https://img.shields.io/badge/Model_Fine--tuning-1D9E75?style=flat-square)
+![LLM Deployment](https://img.shields.io/badge/LLM_Deployment-1D9E75?style=flat-square)
+![NLP Pipelines](https://img.shields.io/badge/NLP_Pipelines-1D9E75?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0F6E56?style=flat-square)
+![ONNX Export](https://img.shields.io/badge/ONNX_Export-0F6E56?style=flat-square)
+![LoRA / PEFT](https://img.shields.io/badge/LoRA_/_PEFT-0F6E56?style=flat-square)
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=furquan-codexar&theme=default&hide_border=true&background=F9F9F7&stroke=5DCAA5&ring=1D9E75&fire=0F6E56&currStreakLabel=0F6E56&sideLabels=444444" alt="Contribution Streak" />
+**🎙️ Voice & Real-time AI**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=furquan-codexar&theme=minimal&hide_border=true&bg_color=f9f9f7&color=1D9E75&line=5DCAA5&point=0F6E56" alt="Contribution Graph" />
+![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-185FA5?style=flat-square)
+![Turn Detection](https://img.shields.io/badge/Turn_Detection-185FA5?style=flat-square)
+![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-185FA5?style=flat-square)
+![Voice Pipelines](https://img.shields.io/badge/Voice_Pipelines-0C447C?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-0C447C?style=flat-square)
+![VAD](https://img.shields.io/badge/Voice_Activity_Detection-0C447C?style=flat-square)
 
-</div>
+**🌐 Full-Stack Development**
+
+![React](https://img.shields.io/badge/React-BA7517?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-BA7517?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-BA7517?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-854F0B?style=flat-square)
+![Electron](https://img.shields.io/badge/Electron-854F0B?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-854F0B?style=flat-square)
+
+**⚙️ Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-533AB7?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-533AB7?style=flat-square)
+![GPU Server Admin](https://img.shields.io/badge/GPU_Server_Admin-533AB7?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-3C3489?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-3C3489?style=flat-square)
+![HLS Streaming](https://img.shields.io/badge/HLS_Streaming-3C3489?style=flat-square)
+
+**🥽 AR / EdTech**
+
+![Unity](https://img.shields.io/badge/Unity-A32D2D?style=flat-square)
+![AR Development](https://img.shields.io/badge/AR_Development-A32D2D?style=flat-square)
+![Curriculum AI](https://img.shields.io/badge/Curriculum_AI-791F1F?style=flat-square)
+![Medical EdTech](https://img.shields.io/badge/Medical_EdTech-791F1F?style=flat-square)
 
 ---
 
